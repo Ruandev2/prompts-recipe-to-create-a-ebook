@@ -23,8 +23,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo |faça um texto para ebook,com foco em java poo ,listando os principais topicos herança e polimorfirmos com exemplos em codigo 
-            REGRAS, Esplique sempre de uma maneira simples, Deixe o texto enxuto Sempre traga exemplos de codigo em contextos reaisCrie um nome|
+| conteúdo |faça um texto para ebook,com foco em java poo ,listando os principais topicos herança e polimorfirmos com exemplos em codigo REGRAS, Esplique sempre de uma maneira simples, Deixe o texto enxuto Sempre traga exemplos de codigo em contextos reaisCrie um nome                |
 |
 
 
@@ -47,11 +46,5 @@ Midjourney：
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-
-<br/><br/>
-<p>
 
 ---
