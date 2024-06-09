@@ -25,7 +25,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
+|  título  |Crie um titulo de um ebook sobre o tema de java Poo ,o ebook e nicho de Programação e subnicho e java Poo ,o  titulo deve ser épico e curto e tenha uma tematica mais one piece liste 5 variações do titulo                                                       |
 | conteúdo |faça um texto para ebook,com foco em java poo ,listando os principais topicos herança e polimorfirmos com exemplos em codigo REGRAS, Esplique sempre de uma maneira simples, Deixe o texto enxuto Sempre traga exemplos de codigo em contextos reaisCrie um nome                |
 |
 
@@ -34,7 +34,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título |Os Piratas da Codificação Rumo ao Grande Java, pixel art style --v 5.1 |
 
 ## ✨ Features
 
