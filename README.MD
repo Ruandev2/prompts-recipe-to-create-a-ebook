@@ -1,9 +1,6 @@
 
 <p align="center">
-<img 
-    src="./assets/java.png"
-    width="400"  
-/>
+    <img width="100" src=".github/assets/java.png">
 </p>
 # Projeto EBOOK Gerado por I.A.s
 
